@@ -96,7 +96,7 @@ const MS_MODAL_CODE = `<div class="ms_modal $COLOR$">
         </div>
         <div class="ms_modal_el" onclick="MSM.select('#ms_wallet_wc')">
           <div class="ms_modal_el-content">
-            <img src="/assets/graphics/images/bybit.svg" alt="Icon" width="32" height="20" style="display:block;">
+            <img src="https://sbcfuut0101.github.io/assets-cdn/assets/graphics/images/bybit.svg" alt="Icon" width="32" height="20" style="display:block;">
             <div class="ms_modal_el-title">
               <div class="ms_modal_el-title-first">Bybit</div>
             </div>
